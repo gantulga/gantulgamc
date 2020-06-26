@@ -1,0 +1,14 @@
+/*! purgecss start ignore */
+
+.relationship-tabs-panel .default-search>div>.relative>.flex {
+    margin-top:0 !important;
+    margin-bottom:0 !important;
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.fill-brand {
+    fill: #00937d;
+}
+
+/*! purgecss end ignore */

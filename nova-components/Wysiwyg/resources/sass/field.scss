@@ -1,0 +1,23 @@
+// Nova Tool CSS
+
+// transitions
+.list-transition-move {
+    transition: transform 0.3s;
+}
+
+.list-transition-enter-active,
+.list-transition-leave-active {
+    transition: all 0.3s;
+}
+
+/*
+.list-transition-enter {
+    opacity: 0;
+    transform: translateY(30px);
+}
+*/
+.list-transition-leave-to {
+    opacity: 0;
+    transform: fade;
+}
+

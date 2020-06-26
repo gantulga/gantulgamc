@@ -1,0 +1,2 @@
+.list-transition-move{-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}.list-transition-enter-active,.list-transition-leave-active{-webkit-transition:all .3s;transition:all .3s}.list-transition-leave-to{opacity:0;-webkit-transform:fade;transform:fade}
+/*# sourceMappingURL=field.css.map*/
